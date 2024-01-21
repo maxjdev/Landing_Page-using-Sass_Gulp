@@ -1,19 +1,34 @@
 <div align="center">
-  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="150">
   
-  # Desenvolvedor Full Stack Java: Front-End - EBAC   
+  <h1>Project: Landing Page Peaky Blinders <a href="https://landing-page-sinopcine.vercel.app/">Deploy</a></h1>
 
-  ## Projeto: Landing Page Peaky Blinders <a href="https://landing-page-sinopcine.vercel.app/">Visite o site</a>
+  ### Techs Used
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+
+  ## Image
   <img src="https://i.postimg.cc/TYmcdShy/screencapture-landing-page-sinopcine-vercel-app-2023-12-17-17-49-58.png"/>
 </div>
 
-### Sinopse
+### Sinopsis
 
-Em Birmingham, logo após a Primeira Guerra Mundial, a gangue Shelby, conhecida como Peaky Blinders, busca ascender no submundo do crime, enfrentando desafios, traições e poderosos inimigos.
+In Birmingham, shortly after the First World War, the Shelby gang, known as the Peaky Blinders, seeks to rise in the criminal underworld, facing challenges, betrayals and powerful enemies.
 
-## Feedback e Contribuições
+## Contributing
 
-Se tiver algum feedback, sugestão ou se deseja contribuir para melhorar a experiência, sinta-se à vontade para abrir uma issue ou entrar em contato.
-<h2 align="center">
-  <i>Agradeço por explorar a Landing Page Peaky Blinders e espero que você se envolva na trama da gangue Shelby!</i>
-</h2>
+We welcome and appreciate your contributions to this project! Whether you have suggestions, bug fixes, or new features you'd like to add, please feel free to fork this repository.
+
+### How to Contribute
+
+1. Fork the project.
+2. Create a branch for your contribution: `git checkout -b my-contribution`.
+3. Make your changes and commit: `git commit -m 'Add my contribution'`.
+4. Push to your branch: `git push origin my-contribution`.
+5. Open a pull request for review.
+
+## Feedback and Issues
+
+If you have contributions, suggestions, or feedback, feel free to open an issue.
